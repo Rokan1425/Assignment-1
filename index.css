@@ -1,4 +1,3 @@
-
 .header-first-part {
     display: flex;
     background-color: rgba(229, 84, 115, 0.10);
@@ -30,6 +29,7 @@
     line-height: 30px;
 
 }
+
 .btn-primary {
     background: #E55473;
     border: none;
@@ -39,9 +39,85 @@
     margin-left: 240px;
     margin-top: 30px;
 }
+
 .flower-1 {
     width: auto;
     height: auto;
     margin-top: 30px;
     margin-left: 150px;
-} 
+}
+
+.our-feature-into {
+    margin-top: 180px;
+    text-align: center;
+}
+
+.our-feature-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.it-is-a-des {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-2 {
+    margin-left: 200px;
+    width: 400px;
+    height: 500px;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.flower-3 {
+    margin-left: 100px;
+    width: 400px;
+    height: 500px;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.flower-4 {
+    margin-left: 100px;
+    width: 400px;
+    height: 500px;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.all-flower {
+    text-align: center;
+}
+.pink-the {
+    display: flex;
+    gap: 360px;
+    margin-left: 510px;
+}
+.pink-flower-1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; 
+    text-decoration-line: underline;
+}
