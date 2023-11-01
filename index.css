@@ -121,3 +121,62 @@
     line-height: 35px; 
     text-decoration-line: underline;
 }
+.section-1 {
+    display: flex;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 10px;
+    width: 1500px;
+    height: 250px;
+    margin-left: 410px;
+    margin-top: 140px;
+
+    
+}
+.section-2 {
+    text-align: center;
+    margin-left: 150px;
+    padding: 50px;
+    
+}
+.section-3 {
+    text-align: center;
+    margin-left: 150px;
+    padding: 50px;
+}
+.section-4 {
+    text-align: center;
+    margin-left: 150px;
+    padding: 50px;
+}
+.section-5 {
+    display: flex;
+    margin-top: 100px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.section-6 {
+    margin-left: 230px;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 300px;
+    margin-bottom: 70px;
+}
+.pic-pnswi {
+    width: 230px;
+    height: 300px;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+.btn-2nd {
+    background: #E55473;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 43px;
+    
+}
+.section-7 {
+    text-align: center;
+    
+}
+
+
