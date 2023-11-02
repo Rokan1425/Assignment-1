@@ -104,23 +104,27 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+
 .all-flower {
     text-align: center;
 }
+
 .pink-the {
     display: flex;
     gap: 360px;
     margin-left: 510px;
 }
+
 .pink-flower-1 {
     color: #272727;
     font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 35px; 
+    line-height: 35px;
     text-decoration-line: underline;
 }
+
 .section-1 {
     display: flex;
     background-color: rgba(39, 39, 39, 0.05);
@@ -130,29 +134,34 @@
     margin-left: 410px;
     margin-top: 140px;
 
-    
+
 }
+
 .section-2 {
     text-align: center;
     margin-left: 150px;
     padding: 50px;
-    
+
 }
+
 .section-3 {
     text-align: center;
     margin-left: 150px;
     padding: 50px;
 }
+
 .section-4 {
     text-align: center;
     margin-left: 150px;
     padding: 50px;
 }
+
 .section-5 {
     display: flex;
     margin-top: 100px;
     background-color: rgba(229, 84, 115, 0.05);
 }
+
 .section-6 {
     margin-left: 230px;
     text-align: center;
@@ -160,23 +169,146 @@
     padding-left: 300px;
     margin-bottom: 70px;
 }
+
 .pic-pnswi {
     width: 230px;
     height: 300px;
     margin-left: 200px;
     padding-top: 50px;
 }
+
 .btn-2nd {
     background: #E55473;
     border: none;
     border-radius: 5px;
     color: white;
     padding: 20px 43px;
-    
+
 }
+
 .section-7 {
     text-align: center;
-    
+    margin-top: 130px;
+
 }
 
+.ins-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
 
+.it is a long {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.all of flower {
+    margin-left: 400px;
+}
+
+.flo-1 {
+    margin-left: 400px;
+}
+
+.flo-2 {
+    margin-left: 25px;
+}
+
+.flo-3 {
+    margin-left: 25px;
+}
+
+.flo-4 {
+    margin-left: 25px;
+}
+
+.Get-the-latest-intro {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 130px;
+    padding-bottom: 170px;
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 20px;
+}
+
+.Get-the-latest-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.doller coupan {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.enter-your-email {
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+}
+
+.another-btn {
+    margin-left: 20px;
+}
+
+.flower-shop--title {
+    text-align: center;
+    color: white;
+}
+
+.flower-shop-intro {
+    background-color: black;
+    padding: 100px;
+    border-radius: 5px;
+}
+
+.flower-shop-name {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.color-add {
+    color: #E55473;
+
+}
+
+.flower-shop-des {
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-shop-last {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
