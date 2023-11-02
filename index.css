@@ -50,6 +50,7 @@
 .our-feature-into {
     margin-top: 180px;
     text-align: center;
+    margin-bottom: 80px;
 }
 
 .our-feature-title {
@@ -71,7 +72,6 @@
 }
 
 .flower-2 {
-    margin-left: 200px;
     width: 400px;
     height: 500px;
     border-radius: 200px 200px 0px 0px;
@@ -83,7 +83,7 @@
 }
 
 .flower-3 {
-    margin-left: 100px;
+    margin-left: 40px;
     width: 400px;
     height: 500px;
     border-radius: 200px 200px 0px 0px;
@@ -95,7 +95,7 @@
 }
 
 .flower-4 {
-    margin-left: 100px;
+    margin-left: 40px;
     width: 400px;
     height: 500px;
     border-radius: 200px 200px 0px 0px;
@@ -110,9 +110,8 @@
 }
 
 .pink-the {
-    display: flex;
-    gap: 360px;
-    margin-left: 510px;
+    text-align: center;
+       
 }
 
 .pink-flower-1 {
@@ -125,35 +124,68 @@
     text-decoration-line: underline;
 }
 
-.section-1 {
-    display: flex;
-    background-color: rgba(39, 39, 39, 0.05);
-    border-radius: 10px;
-    width: 1500px;
-    height: 250px;
-    margin-left: 410px;
-    margin-top: 140px;
-
-
+.pink-flower-2 {
+    margin-left: 300px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 }
 
-.section-2 {
+.pink-flower-3 {
+    margin-left: 300px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+
+.section-1 {
+    /* text-align: center; */
+    display: flex;
+    background-color: rgba(39, 39, 39, 0.05);
+    background-position: center center;
+    border-radius: 10px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    margin-top: 130px;
+    margin-left: 240px;
+    margin-right: 240px;    
+}
+.part-1-flow, .part-2-flow, .part-3-flow {
+    margin-left: 50%;
+    margin-right: 50%;
+    margin: auto;
+}
+.part-1-flow {
     text-align: center;
-    margin-left: 150px;
-    padding: 50px;
+}
+.part-2-flow {
+    text-align: center;
+}
+
+
+
+.section-2 {
+    margin-left: -100px;
 
 }
 
 .section-3 {
-    text-align: center;
-    margin-left: 150px;
-    padding: 50px;
+    margin-left: 100px; */
+   
 }
 
 .section-4 {
-    text-align: center;
-    margin-left: 150px;
-    padding: 50px;
+   margin-left: 200px;
+   
 }
 
 .section-5 {
@@ -189,6 +221,7 @@
 .section-7 {
     text-align: center;
     margin-top: 130px;
+    margin-bottom: 50px;
 
 }
 
@@ -210,24 +243,24 @@
     line-height: 30px;
 }
 
-.all of flower {
-    margin-left: 400px;
+.all-of-flower {
+    text-align: center;
 }
 
 .flo-1 {
-    margin-left: 400px;
+    margin-left: 20px;
 }
 
 .flo-2 {
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .flo-3 {
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .flo-4 {
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .Get-the-latest-intro {
